@@ -8,8 +8,13 @@ Required: Numpy, Pandas, tensorflow, python, jupyter
 Open a jupyter notebook server either locally or connected to a gpu backend with singularity
 
 Each Notebook contains cells to manipulate, train and evaluate an XGBoost model, RF model, CNN & DNN
+Notebooks are not trait specific however they're data type specific. BC = Binary classification, MCC = multiple class clasffication, reg = regression
+For example Flower Colour had 2 categorical traits to predict (notated as 0 or 1). The traits and input data typeswere kept in separate notebooks for easier result notation.
+However if you have a trait you'd like to predict that requires binary classification you could use any notebook that ends in BC.
 
-Otherwise data should be formatted as follows
+
+
+Your own data should be formatted as follows
 
 Rows: Individual Line Samples
 
