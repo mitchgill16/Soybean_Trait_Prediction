@@ -24,3 +24,5 @@ Final Column: Recorded phenotype for given trait
 
 A holdout set was used, where each of the columns were the same SNP inputs, however these were not seen by the model until after training.
 EG. If the training data had column headers SNP_01 SNP_02 ..... SNP_99999 Value, the holdout data would have the same column headers but different rows
+
+New Commit: Comments on some notebooks were updated and added to explain some of the inbetween helper functions eg. the massive load in function, one hot encode etc. Both flower colour notebooks in particular are the best notated and should explain what each cell and new function does.
