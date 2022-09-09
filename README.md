@@ -1,5 +1,7 @@
 Notebooks for Soybean Trait Prediction
 
+Published Paper: https://doi.org/10.1186/s12870-022-03559-z
+
 These notebooks were used to predict soybean traits from genomic data however given data formatted in the same manner they could be used to predict other traits
 from other crops. Wrangled datasets and scripts used for this project can be requested at mitchell.gill@research.uwa.edu.au, raw vcfs and genotype data can be found at doi://10.26182/5f34ac3377313
 
